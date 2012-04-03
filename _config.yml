@@ -12,10 +12,10 @@ pygments: true
 title : Mobile Command
 tagline: Get on the bus!
 author :
-  name : Ben Sharpe
+  name : "Mobile Command, LLC."
   email : bsharpe@mobilecmd.com
-  github : bsharpe
-  twitter : bsharpe
+  github : mobilecmd
+  twitter : mobilecmd
   feedburner : 
 
 # The production_url is only used when full-domain names are needed
