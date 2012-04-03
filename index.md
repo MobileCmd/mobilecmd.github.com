@@ -6,5 +6,6 @@ title: Mobile Command
 
 
 <div class='right-side fun-font'>
-  Hand-crafted solutions for mobile entertianment
+  Hand-crafted solutions for mobile entertainment
 </div>
+
