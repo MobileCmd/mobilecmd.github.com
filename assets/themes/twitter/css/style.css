@@ -20,8 +20,39 @@ html, body {
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
 }
 
+.content .left-side {
+  margin-top: 2em;
+  margin-left: 1em;
+  color: #330;
+}
+
+.content .fun-font {
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 28px;
+  line-height: 32px;
+}
+
+.content h3 {
+  color: #000;
+}
+
+.content .right-side {
+  color: #330;
+  margin-top: 2em;
+  margin-left: 512px;
+}
+
+h3 {
+  color: #e5e5e5;
+}
+
 .bus-bkg {
   background-image: url("/assets/imgs/MCweb_art.jpeg");	
+  min-height: 512px;
+}
+
+.clean-bkg {
+  background-image: url("/assets/imgs/MCweb_back_clean.png");
   min-height: 512px;
 }
 
