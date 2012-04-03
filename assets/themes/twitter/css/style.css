@@ -23,13 +23,21 @@ html, body {
 .content .left-side {
   margin-top: 2em;
   margin-left: 1em;
+  margin-right: 1em;
   color: #330;
 }
 
-.content .fun-font {
+.fun-font{
   font-family: 'Luckiest Guy', cursive;
   font-size: 28px;
   line-height: 32px;
+}
+
+.fun-font > p {
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 28px;
+  line-height: 32px;
+  color: #000;
 }
 
 .content h3 {
