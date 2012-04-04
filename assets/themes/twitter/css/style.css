@@ -44,6 +44,29 @@ html, body {
   color: #000;
 }
 
+.page-header h3 {
+  font-family: 'Stardos Stencil', cursive;
+  font-size: 32px;
+  line-height: 32px;
+  color: #F0E4B3;
+}
+
+.navbar .brand {
+  color: #F6701F;
+}
+
+.navbar .nav > li > a:hover {
+  color: #F6701F;
+}
+
+.navbar .nav > li > a {
+  color: #F0E4B3;
+}
+
+.navbar .nav .active > a, .navbar .nav .active > a:hover {
+  color: #F6701F;
+}
+
 .content .right-side {
   color: #330;
   margin-top: 2em;
