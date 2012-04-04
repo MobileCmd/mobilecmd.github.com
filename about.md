@@ -22,7 +22,7 @@ With over 48 years of combined shipping experience in the online entertainment i
 
 <h1>
  <img src='/assets/imgs/eng.png' alt='ENG' title='Engineering' />  
- <a href="http://linkedin.com/bsharpe">Ben Sharpe</a>
+ <a href="http://linkedin.com/in/bsharpe">Ben Sharpe</a>
 </h1>
 
 <h1>
